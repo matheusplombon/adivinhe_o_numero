@@ -26,3 +26,6 @@ Bem-vindo ao **Jogo do Número Secreto**! Este é um projeto simples e divertido
 6. Ao final, uma mensagem (`alert`) indicará o número secreto e a quantidade de tentativas que você fez.
 
 ![image](https://github.com/matheusplombon/adivinhe_o_numero/assets/174143978/97d40728-9720-4d83-860c-55fcccc5a98d)
+
+## Link do Projeto
+- https://adivinhe-o-numero-sigma.vercel.app
